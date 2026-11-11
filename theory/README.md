@@ -1,6 +1,6 @@
 # Theory
 
-Four short notes, beginner-level. Read in order:
+Five short notes, beginner-level. Read in order:
 
 1. [`01-what-is-typosquatting.md`](01-what-is-typosquatting.md) —
    the attack: how phishers trick users with lookalike domains
@@ -10,5 +10,7 @@ Four short notes, beginner-level. Read in order:
    identical to `paypal.com` in your browser
 4. [`04-real-security-tools.md`](04-real-security-tools.md) — where
    this pattern lives in Google Safe Browsing, Defender, and more
+5. [`05-after-detection.md`](05-after-detection.md) — the response
+   playbook: what you actually do once the detector fires
 
 The code in `../typosquat.py` is where you can see all of it run.

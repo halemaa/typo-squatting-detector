@@ -99,6 +99,8 @@ theory/                         4 beginner-level security-flavored notes
 4. [Where this fits in real security](theory/04-real-security-tools.md)
    — Google Safe Browsing, Microsoft Defender, Cisco Umbrella all use
    variations of this
+5. [After detection: what do you actually do?](theory/05-after-detection.md)
+   — the response playbook from "alert fires" to "incident closed"
 
 ## Extending
 
