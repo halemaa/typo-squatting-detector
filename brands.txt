@@ -1,0 +1,44 @@
+# Legitimate brands to protect against typo-squatting.
+# One domain per line. Comments and blank lines ignored.
+
+# Global tech
+google.com
+facebook.com
+amazon.com
+microsoft.com
+apple.com
+twitter.com
+instagram.com
+linkedin.com
+youtube.com
+netflix.com
+paypal.com
+ebay.com
+tiktok.com
+
+# Banking / payments
+bankofamerica.com
+chase.com
+wellsfargo.com
+hsbc.com
+stripe.com
+
+# Kenya / East Africa
+safaricom.co.ke
+mpesa.com
+kcbgroup.com
+equitybank.co.ke
+coop.co.ke
+absa.co.ke
+
+# Cloud / dev
+github.com
+gitlab.com
+cloudflare.com
+digitalocean.com
+aws.amazon.com
+
+# Universities
+usiu.ac.ke
+uonbi.ac.ke
+strathmore.edu

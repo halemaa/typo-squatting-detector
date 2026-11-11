@@ -1,0 +1,51 @@
+# Sample list of domains to scan. In production this would be fed
+# from new DNS registrations, MX record scans, email subject lines, etc.
+
+# Pure typos (1-2 character edits)
+gogle.com
+googel.com
+goggle.com
+googIe.com
+amaz0n.com
+microsft.com
+instgram.com
+
+# Homoglyph attacks
+paypaI.com
+l1nkedin.com
+G00gle.com
+appIe.com
+tw1tter.com
+
+# TLD-swapping attacks
+google.co
+facebook.net
+amazon.org
+paypal.co
+mpesa.co
+
+# Insertion attacks
+google-login.com
+paypal-secure.com
+microsoft-support.com
+
+# Kenyan-brand attacks
+safaric0m.co.ke
+safaricomm.co.ke
+mpesaa.com
+equityb4nk.co.ke
+koop.co.ke
+usiu.co.ke
+
+# Legitimate (should NOT be flagged)
+google.com
+microsoft.com
+safaricom.co.ke
+usiu.ac.ke
+github.com
+
+# Unrelated (should NOT be flagged)
+example.com
+wikipedia.org
+duckduckgo.com
+mystartup.io
